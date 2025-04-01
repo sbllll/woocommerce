@@ -76,7 +76,7 @@
 		"@wordpress/notices": "wp-6.6",
 		"@wordpress/plugins": "wp-6.6",
 		"@wordpress/primitives": "wp-6.6",
-		"@wordpress/router": "0.7.0",
+		"@wordpress/router": "0.27.0",
 		"@wordpress/url": "wp-6.6",
 		"@wordpress/viewport": "wp-6.6",
 		"@wordpress/warning": "wp-6.6",
