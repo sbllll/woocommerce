@@ -58,7 +58,7 @@
 		"@wordpress/blocks": "wp-6.6",
 		"@wordpress/components": "wp-6.6",
 		"@wordpress/compose": "wp-6.6",
-		"@wordpress/core-data": "wp-6.6",
+		"@wordpress/core-data": "7.19.1",
 		"@wordpress/data-controls": "wp-6.6",
 		"@wordpress/date": "wp-6.6",
 		"@wordpress/dom": "wp-6.6",
