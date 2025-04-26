@@ -54,7 +54,7 @@
 	},
 	"dependencies": {
 		"@woocommerce/number": "workspace:*",
-		"@wordpress/deprecated": "wp-6.6",
+		"@wordpress/deprecated": "4.21.0",
 		"@wordpress/element": "wp-6.6",
 		"@wordpress/hooks": "wp-6.6",
 		"@wordpress/html-entities": "wp-6.6",
