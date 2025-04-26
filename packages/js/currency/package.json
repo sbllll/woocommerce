@@ -57,7 +57,7 @@
 		"@wordpress/deprecated": "wp-6.6",
 		"@wordpress/element": "wp-6.6",
 		"@wordpress/hooks": "wp-6.6",
-		"@wordpress/html-entities": "wp-6.6",
+		"@wordpress/html-entities": "4.21.0",
 		"@wordpress/i18n": "wp-6.6"
 	},
 	"publishConfig": {
