@@ -40,13 +40,13 @@
 		"@wordpress/block-editor": "wp-6.6",
 		"@wordpress/components": "wp-6.6",
 		"@wordpress/compose": "wp-6.6",
-		"@wordpress/core-data": "wp-6.6",
+		"@wordpress/core-data": "7.11.0",
 		"@wordpress/data-controls": "wp-6.6",
 		"@wordpress/element": "wp-6.6",
 		"@wordpress/hooks": "wp-6.6",
 		"@wordpress/i18n": "wp-6.6",
 		"@wordpress/icons": "wp-6.6",
-		"@wordpress/plugins": "wp-6.6",
+		"@wordpress/plugins": "7.11.0",
 		"prop-types": "^15.8.1"
 	},
 	"peerDependencies": {
