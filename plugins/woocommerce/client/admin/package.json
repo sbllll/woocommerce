@@ -64,7 +64,7 @@
 		"@wordpress/dom": "wp-6.6",
 		"@wordpress/dom-ready": "wp-6.6",
 		"@wordpress/edit-site": "5.15.0",
-		"@wordpress/editor": "wp-6.6",
+		"@wordpress/editor": "14.11.0",
 		"@wordpress/element": "wp-6.6",
 		"@wordpress/hooks": "wp-6.6",
 		"@wordpress/html-entities": "wp-6.6",
