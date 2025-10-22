@@ -36,7 +36,7 @@
 	],
 	"dependencies": {
 		"@woocommerce/components": "workspace:*",
-		"@wordpress/components": "wp-6.6",
+		"@wordpress/components": "28.11.0",
 		"@wordpress/element": "wp-6.6",
 		"@wordpress/i18n": "wp-6.6",
 		"@wordpress/icons": "wp-6.6",
