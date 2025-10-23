@@ -68,7 +68,7 @@
 		"@wordpress/core-data": "wp-6.6",
 		"@wordpress/data": "wp-6.6",
 		"@wordpress/data-controls": "wp-6.6",
-		"@wordpress/editor": "wp-6.6",
+		"@wordpress/editor": "14.11.0",
 		"@wordpress/element": "wp-6.6",
 		"@wordpress/format-library": "wp-6.6",
 		"@wordpress/hooks": "wp-6.6",
