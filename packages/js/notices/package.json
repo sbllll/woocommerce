@@ -52,7 +52,7 @@
 		]
 	},
 	"dependencies": {
-		"@wordpress/a11y": "wp-6.6",
+		"@wordpress/a11y": "4.11.0",
 		"@wordpress/notices": "wp-6.6"
 	},
 	"peerDependencies": {
