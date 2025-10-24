@@ -60,7 +60,7 @@
 		"@woocommerce/experimental": "workspace:*",
 		"@woocommerce/explat": "workspace:*",
 		"@woocommerce/tracks": "workspace:*",
-		"@wordpress/components": "wp-6.6",
+		"@wordpress/components": "28.11.0",
 		"@wordpress/compose": "wp-6.6",
 		"@wordpress/element": "wp-6.6",
 		"@wordpress/i18n": "wp-6.6",
